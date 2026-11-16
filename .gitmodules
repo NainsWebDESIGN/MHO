@@ -1,0 +1,3 @@
+[submodule "my-ai"]
+	path = my-ai
+	url = https://github.com/NainsWebDESIGN/my-ai.git
